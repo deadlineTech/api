@@ -127,7 +127,7 @@ This project uses:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/deadlineTech/music.git
+git clone https://github.com/naynay11122211/MS.git
 cd music
 ```
 
