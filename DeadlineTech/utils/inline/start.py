@@ -19,7 +19,7 @@ def start_panel(_):
 
 def private_panel(_):
     buttons = [
-        [InlineKeyboardButton(text=_["S_B_6"], web_app=WebAppInfo(url="https://deadlinetech.site"))],
+        [InlineKeyboardButton(text=_["S_B_6"], url=f"https://t.me/BSHmusic12")],
         [
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
             InlineKeyboardButton(text=_["S_B_7"], url=config.SUPPORT_CHANNEL),
