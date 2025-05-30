@@ -19,7 +19,7 @@ def start_panel(_):
 
 def private_panel(_):
     buttons = [
-        [InlineKeyboardButton(text=_["S_B_6"], url=f"https://t.me/BSHmusic12")],
+         [InlineKeyboardButton(text=_["S_B_6"], web_app=WebAppInfo(url="https://telegra.ph/BSH-MUSIC-BOT-%E1%80%A1%E1%80%9E%E1%80%95%E1%80%94%E1%80%8A-05-30"))],
         [
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
             InlineKeyboardButton(text=_["S_B_7"], url=config.SUPPORT_CHANNEL),
