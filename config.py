@@ -89,8 +89,8 @@ PING_IMG_URL = getenv(
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/1927a41b14896327ca2ea-662f7988e42d3d7ec5.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/1557a544d9b4f051f99c7-57891fa1d7578f5b79.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/1xn73k.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/1xn73k.jpg"
+TELEGRAM_AUDIO_URL = "https://t.me/yukibeat/23"
+TELEGRAM_VIDEO_URL = "https://t.me/yukibeat/23"
 STREAM_IMG_URL = "https://envs.sh/SnH.jpg"
 SOUNCLOUD_IMG_URL = "https://files.catbox.moe/1xn73k.jpg"
 YOUTUBE_IMG_URL = "https://files.catbox.moe/1xn73k.jpg"
