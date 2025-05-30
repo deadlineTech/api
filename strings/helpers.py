@@ -27,17 +27,9 @@ HELP_2 = """
 """
 
 HELP_3 = """
-<u><b>To create a clone:</b></u>
-1. Open @BotFather.
-2. Initiate a chat with @BotFather and type /newbot.
-3. Choose a name for your clone.
-4. Select a username for your clone.
-5. Copy the API token provided by @BotFather.
-6. Send the API token to @HarryxRobot via private message using /clone [apitokenhere]. Ensure to remove '[ ]'.
-7. You're all set!
-<u>ᴇxᴀᴍᴘʟᴇ:</u>
-<code>/clone your bot token</code>
-𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗗𝗲𝗺𝗼 𝗕𝗼𝘁 🎶 - @TuhiMusicBot
+<u><b>For ADS:</b></u>
+1. Contact @sta2002
+𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗗𝗲𝗺𝗼 𝗕𝗼𝘁 🎶 - @BSHMUSICBOT
 """
 
 HELP_4 = """<u><b>ᴄʜᴀᴛ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
