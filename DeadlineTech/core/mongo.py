@@ -7,7 +7,7 @@ from ..logging import LOGGER
 LOGGER(__name__).info("⏳ Establishing a secure link to your MongoDB database...")
 try:
     _mongo_async_ = AsyncIOMotorClient(MONGO_DB_URI)
-    mongodb = _mongo_async_.deadline
+    mongodb = _mongo_async_.Anon
     LOGGER(__name__).info("✅ Successfully connected to MongoDB. All systems are ready!")
 except:
     LOGGER(__name__).error("❌ MongoDB connection failed!")
